@@ -15,7 +15,7 @@ KUBEAPPS_IP: 192.168.1.212
 # Has to start with ssh://
 GITHUB_REPOSITORY: "ssh://git@github.com:CrispySteak/clustertool-03.git"
 
-CLUSTERNAME: cluster-03
+#CLUSTERNAME: cluster-03
 
 # DO NOT ALTER
 PODNET: 172.16.0.0/16
